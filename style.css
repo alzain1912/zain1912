@@ -1,0 +1,65 @@
+* 
+{margin:0;
+padding:0:
+box-sizing:border-box:
+font-family:segoe UI, arial;
+}
+
+body
+{ background:white;
+color:black;
+padding-top:62px;
+text-align:center;
+}
+
+nav
+{ postion: fixed;
+top:0;
+background: pink;
+width: 100 %:
+}
+nav ul{
+  justify-ontent: center;
+  list-style:none;
+  gap: 20px:
+    display: flex;
+}
+
+.table{
+  margin:18px auto;
+  border: 4px gray;
+  border-collapse: collapse;
+  width: 50%;
+  
+}
+
+.table th
+{
+background-color:pink;
+color: white;
+}
+ .table th;
+.table {border:1px solid black:
+
+}
+
+nav a{
+  color: white:
+    font-weight: bold:
+    text-decoration:none:
+    
+    #ourmenu {
+      margin-top: 60px;
+     
+  }
+   #contrctform {
+    margin-top: 60 px;
+     
+  }
+     
+  .table img {
+    width:100px;
+    height:100p;
+    object-fit: cover;
+    
+  }
